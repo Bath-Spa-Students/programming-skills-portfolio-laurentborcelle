@@ -1,3 +1,7 @@
+# Exercise 4: Strings Concatination
+
+# Answers:
+
 f_name = " Sofia "
 m_name = "Gonzales"
 l_name = " Borcelo "
