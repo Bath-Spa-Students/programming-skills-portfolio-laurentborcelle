@@ -5,12 +5,12 @@
 favorite_fruits = ['Strawberry', 'Avocado','Cherry']
 
 if 'Strawberry' in favorite_fruits:
-    print("You really like strawberries!")
+    print ("You really like strawberries!")
 if 'Avocado' in favorite_fruits:
-    print("You really like avocadoes!")
+    print ("You really like avocadoes!")
 if 'Peaches' in favorite_fruits:
-    print("You really like peaches!")
+    print ("You really like peaches!")
 if 'Apples' in favorite_fruits:
-    print("You really like Apples!")
+    print ("You really like Apples!")
 if 'Cherry' in favorite_fruits:
-    print("You really like cherries!")
+    print ("You really like cherries!")
